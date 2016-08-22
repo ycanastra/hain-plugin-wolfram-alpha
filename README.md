@@ -1,6 +1,6 @@
 # hain-plugin-wolfram
 
-A simple wolfram alpha search plugin for [Hain](https://github.com/appetizermonster/hain)
+A simple wolfram alpha search plugin for [Hain](https://github.com/appetizermonster/hain)  
 Icon provided by [Icons8](https://icons8.com/)
 
 # Usage
