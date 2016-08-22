@@ -22,8 +22,8 @@ module.exports = (pluginContext) => {
     if (payload !== 'open') {
       return
     }
-
-    shell.openExternal(`https://www.wolframalpha.com/input/?i=${id}`)
+    var encodedId = encodeURIComponent(id)
+    shell.openExternal(`https://www.wolframalpha.com/input/?i=${encodedId}`)
   }
   return { search, execute }
 }
