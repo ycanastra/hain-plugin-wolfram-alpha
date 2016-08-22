@@ -1,6 +1,6 @@
 {
-  "name": "hain-plugin-wolfram",
-  "version": "1.0.0",
+  "name": "hain-plugin-wolfram-alpha",
+  "version": "0.0.1",
   "description": "A simple wolfram search plugin for Hain",
   "main": "index.js",
   "repository": {
