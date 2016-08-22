@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leonardosnt/hain-plugin-google.git"
+    "url": "git+https://github.com/ycanastra/hain-plugin-wolfram-alpha.git"
   },
   "keywords": [
     "hain-0.4.0"
