@@ -7,3 +7,9 @@ Icon provided by [Icons8](https://icons8.com/)
 ```
 type /w to search wolfram alpha
 ```
+
+# Install
+```
+/hpm install wolfram-alpha
+```
+
