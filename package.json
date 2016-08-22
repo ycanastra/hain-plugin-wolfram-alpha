@@ -1,0 +1,21 @@
+{
+  "name": "hain-plugin-wolfram",
+  "version": "1.0.0",
+  "description": "A simple wolfram search plugin for Hain",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardosnt/hain-plugin-google.git"
+  },
+  "keywords": [
+    "hain-0.4.0"
+  ],
+  "author": "ycanastra",
+  "license": "MIT",
+  "hain": {
+    "prefix": "/w ",
+    "usage": "type /w to search Wolfram Alpha",
+    "icon": "icon.png",
+    "redirect": "/w "
+  }
+}
